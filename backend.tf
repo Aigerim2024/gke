@@ -1,6 +1,6 @@
 terraform {
  backend "gcs" {
-   bucket  = "gke-terraform-backend-aigerim"
+   bucket  = "gke-terraform-backend-77"
    prefix  = "terraform/state"
  }
 }
